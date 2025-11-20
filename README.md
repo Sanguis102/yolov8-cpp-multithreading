@@ -1,6 +1,6 @@
 # RKNN YOLOv8 多线程推理
 
-基于 RK3588 NPU 的高性能多线程 YOLOv8 推理框架，项目是[rknn-cpp-Multithreading](https://github.com/leafqycc/rknn-cpp-Multithreading-main)项目的YOLOv8实现，参考官方例程重新编写了后处理程序。
+基于 RK3588 NPU 的高性能多线程 YOLOv8 推理框架，项目是[rknn-cpp-Multithreading](https://github.com/leafqycc/rknn-cpp-Multithreading)项目的YOLOv8实现，参考官方例程重新编写了后处理程序。
 
 
 ## 参考项目
